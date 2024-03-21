@@ -1,0 +1,32 @@
+
+@import url("components/container.css");
+@import url("components/btn-black.css");
+@import url("components/banner.css");
+@import url("components/second-btn.css");
+@import url("components/card.css");
+
+body {
+
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30px;
+  margin: 0px;
+}
+
+h1 {
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+}
+
+h2, h3 {
+
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 80px;
+  margin-top: 55px;
+
+}
+
+a {
+  text-decoration: none;
+  margin-bottom: 50px;
+}
